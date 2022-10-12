@@ -163,3 +163,12 @@
 		color: white;
 	}
 </style>
+.thumbnail{
+    width: 250px;
+    border: 2px solid black;
+    border-radius: 26px;
+    margin-top: 19px;
+}
+<div class="thumbnail">
+            <img src="thumbnail.png" alt="Wallpaper">
+        </div>
